@@ -1,1 +1,5 @@
-# landing-page
+## Simple page
+
+- Это простая страница, [можете посмотреть сами](https://lirmortoch.github.io/landing-page/)
+- Есть 1 заголовок и кнопка по центру
+- Используется 2 цвета
